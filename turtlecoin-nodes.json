@@ -60,6 +60,12 @@
       "port": 11898,
       "ssl": false
     },
+     {
+      "name": "CuvéeTrtl - Czech Republic",
+      "url": "cuveetrtl.czech.cloud",
+      "port": 11898,
+      "ssl": false
+    },
     {
       "name": "Daemon.Turtle.Link",
       "url": "daemon.turtle.link",
